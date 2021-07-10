@@ -2,7 +2,8 @@
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif) I live in Chongqing of China, used to be an Android Development Engineer of Baidu SLG, but now I'm an independent game developer.
 
-![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sloaix&hide=PHP,Makefile) ![Sloaix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sloaix&show_icons=true&line_height=33)
+![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sloaix&layout=compact) 
+![Sloaix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sloaix&show_icons=true&include_all_commits=true)
 
 ## 🔭 I’m currently working with ...
 
