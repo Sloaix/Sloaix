@@ -1,9 +1,11 @@
-# Hi there 👋, I'm Sloaix 👨‍💻
+# Hi there 🖐, I'm Sloaix 😏
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif) I live in Chongqing of China, used to be an Android Development Engineer of Baidu SLG, but now I'm an independent game developer.
 
 ![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sloaix&layout=compact) 
+
 ![Sloaix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sloaix&show_icons=true&include_all_commits=true)
+
 
 ## 🔭 I’m currently working with ...
 
