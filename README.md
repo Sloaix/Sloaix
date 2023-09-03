@@ -1,6 +1,10 @@
-# Hi there 🖐, I'm Sloaix 😏
+# Hi there 🖐, I'm Sloaix
 
-![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif) Former Baidu SLG Android Development Engineer, currently residing in ChongQing.
+![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif) 
+
+Former Baidu SLG Android Development Engineer, currently residing in ChongQing.
+
+This is my [BLOG](sloaix.cc).
 
 ![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sloaix&layout=compact) 
 
