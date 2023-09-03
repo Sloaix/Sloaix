@@ -4,7 +4,7 @@
 
 Former Baidu SLG Android Development Engineer, currently residing in ChongQing.
 
-This is my [BLOG](sloaix.cc).
+This is my [BLOG](https://sloaix.cc).
 
 ![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sloaix&layout=compact) 
 
